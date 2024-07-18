@@ -2,8 +2,8 @@
 Changelog for package px4_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+2.0.2 (2024-07-18)
+------------------
 * Update message definitions Fri Nov 25 21:27:59 UTC 2022
 * Update message definitions Wed Nov  2 06:58:08 UTC 2022
 * px4_msgs overhaul corresponding with new PX4-Autopilot microdds_client (`#15 <https://github.com/HippoCampusRobotics/px4_msgs/issues/15>`_)
